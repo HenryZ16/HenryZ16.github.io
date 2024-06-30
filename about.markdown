@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: 关于
 permalink: /about/
 ---
 
-# 测试文本
+# 关于
 
 ## 测试文本
 
